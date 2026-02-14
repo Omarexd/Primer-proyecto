@@ -1,22 +1,10 @@
-## Autor
-
+Autor
 Omar Cabrera
-
 Aprendí cómo crear repositorios, hacer commits y subir cambios a GitHub.
-
 Cambio hecho desde la rama omar.
-
 Edición realizada desde la segunda rama de prueba.
-
 i. ¿Qué aprendiste sobre el flujo de trabajo con Git y
-
 GitHub? Aprendí demasiado en tan poco tiempo jaja, se siente más interesante saber más sobre este tema.
-
 ii. ¿Cómo fue la experiencia de trabajar en pareja? ¿Encontraste algún
-
 conflicto? ¿Cómo lo resolviste? No tuve conflictos ya que lo hice individual, pero se me complicó el como usar bien el git y eso pero se aprendió.
-
 ii. ¿Qué ventajas crees que tiene usar Git en proyectos de programación? Es fácil de acceder y rápido.
-
-
-
